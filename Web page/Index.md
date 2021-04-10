@@ -27,10 +27,12 @@ Scene to scene transition
 ### Cut
 The already mentioned cut transition consists in playing two sequences simultaneously without putting any extra effects. It is not usually seen in video games because it doesn't offer any extra time to manage data before loading the next scene.
 
-i
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/cut%20in.gif)
+
 ### Invisible cut
 Is called invisible cut, the technique which tries to hide a straight cut by driving the attention of the spectator to another side or just blocking his visibility with some other elements ons screen. This kind of transition, if it is well executed, goes unnoticed for most spectators if they are paying much attention.
 
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/artificial.gif)
 ### Partial cut
 When between two scenes not all elements change we call it partial cut. In video games could imply managing less data, being less expensive to render. But from a cinematic perspective will imply either shooting two scenes with some identical elements, or shooting a scene with some idle elements when the entire background is changed.
 
@@ -38,7 +40,7 @@ When between two scenes not all elements change we call it partial cut. In video
 
 ### Fade in/out
 The first scene gradually turns to a color (fade in), commonly black or white. And then, from the single color, it gradually appears the other scene (fade out). It is one of the transitions that takes much time, being a very smooth transition. From a narrative perspective, it signifies the past of time, being very clear when it ends and starts each scene.
-
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade%20flash.gif)
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade%20in.gif)
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade.gif)
 
