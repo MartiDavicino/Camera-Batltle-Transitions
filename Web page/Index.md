@@ -25,7 +25,7 @@ Again comparing both industries, cinema and video games, there are two general t
 The scene to scene transition, where is used any sort of effect to smooth the change. And the transition inside the same scene, in which although the scene doesn’t change we redirect the camera to focus on a different objective.
 
 Scene to scene transition
-### Cut
+#### Cut
 The already mentioned cut transition consists in playing two sequences simultaneously without putting any extra effects. It is not usually seen in video games because it doesn't offer any extra time to manage data before loading the next scene.
 
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/cut%20batman.gif)
