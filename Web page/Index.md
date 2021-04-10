@@ -77,3 +77,16 @@ This transition is practically the same as the wipe. But it uses extra graphic d
 Most commonly used in pixel art games or old ones that have a low resolution. This technique consists in covering the screen with limited areas step by step in which we will be able to see the new scene.
 
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/color%202.gif)
+
+## Camera transition effects
+Even though we decide to not give any special artistic taste to our game transitions they will have such an important impact to the audience. In artistic decisions there doesn't exist a neutral solution, if we decide we do not want to convey any special sensation.
+
+Although it is an obvious point for a cinema director, a video game developer may ignore if he strictly designs guided by functionality. Despite of we cannot forget the importance camera transitions have and try to play with them and imagine how the player experiences them, we cannot either forget the technical limitations which we have to adapt to. If we fail, miss calculate the time that the loading screens take and the cohesion between the waiting time and the animation played is broken, as the inmersion will be ruined.
+
+Avoiding a boring loading screen can turn into a difficult task if we consider that every 
+computer has different performances and efficiency.
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/loading%20ds2.jpg)
+
+An intelligent solution, performed from FromSoftware in Dark souls titles, is adding in the middle of the transition an idle image which contains useful information for the game. Rendering an image while the game is unloading and loading data that contains information of an entire scene is minuscule. So that, depending on your computer you will see this image more or less time.
+
