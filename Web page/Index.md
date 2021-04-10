@@ -90,3 +90,24 @@ computer has different performances and efficiency.
 
 An intelligent solution, performed from FromSoftware in Dark souls titles, is adding in the middle of the transition an idle image which contains useful information for the game. Rendering an image while the game is unloading and loading data that contains information of an entire scene is minuscule. So that, depending on your computer you will see this image more or less time.
 
+
+***
+## Exercises
+Now I have explained all types of camera transitions in cinema and video games industry it is time for a challenge! Let's test all we have learnt. You will have to identify the type of camera transition in each of the following videos. Write down your answers and check them at the end of the document when you are done.
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/aladin.gif)
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/composed.gif)
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/diagonal%20wipe.gif)
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/artificial%202.gif)
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/follow%20action.gif)
+
+***
+## Answers
+-In the first video is use ______ fade camera transition technique.
+-In the first video is use ______ fade camera transition technique.
+-In the first video is use ______ fade camera transition technique.
+-In the first video is use ______ fade camera transition technique.
