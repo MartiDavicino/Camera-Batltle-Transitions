@@ -98,6 +98,9 @@ This action following method does not always imply a big translation. A lot of t
 
 Being very similar to a zoom in and lerp, when we want to show an object or character that is already on the screen we do not need to change the scene to focus the attention on him. Being different from the two mentioned techniques, when we do a transition to an integrated scene the camera remains idle. It is commonly used to access menus or interfaces that don’t require exiting the scene and are either integrated or renderer above all the previous layers.
 
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/integrated.gif)
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/giphy.gif)
+
 ***
 
 ## Camera transition effects
@@ -126,6 +129,8 @@ Now I have explained all types of camera transitions in cinema and video games i
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/artificial%202.gif)
 
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/follow%20action.gif)
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/integrated%20ui.gif)
 
 ***
 ## Answers
