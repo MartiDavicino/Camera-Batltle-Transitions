@@ -20,64 +20,85 @@ Camera transitions are not just an artistic resource the developers use to make 
 
 Personally I find brilliant, the way that an artistic process, a method that has a strictly embellishing purpose in cinema, is also used to hide technical limitations.
 
-Types of transitions
+## Types of transitions
 Again comparing both industries, cinema and video games, there are two general types of transitions commonly used:
 The scene to scene transition, where is used any sort of effect to smooth the change. And the transition inside the same scene, in which although the scene doesn’t change we redirect the camera to focus on a different objective.
 
-Scene to scene transition
+### Scene to scene transition
 #### Cut
 The already mentioned cut transition consists in playing two sequences simultaneously without putting any extra effects. It is not usually seen in video games because it doesn't offer any extra time to manage data before loading the next scene.
 
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/cut%20batman.gif)
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/cut%20in.gif)
 
-### Invisible cut
+#### Invisible cut
 Is called invisible cut, the technique which tries to hide a straight cut by driving the attention of the spectator to another side or just blocking his visibility with some other elements ons screen. This kind of transition, if it is well executed, goes unnoticed for most spectators if they are paying much attention.
 
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/artificial.gif)
 
-### Partial cut
+#### Partial cut
 When between two scenes not all elements change we call it partial cut. In video games could imply managing less data, being less expensive to render. But from a cinematic perspective will imply either shooting two scenes with some identical elements, or shooting a scene with some idle elements when the entire background is changed.
 
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/baby%20driver.gif)
 
-### Fade in/out
+#### Fade in/out
 The first scene gradually turns to a color (fade in), commonly black or white. And then, from the single color, it gradually appears the other scene (fade out). It is one of the transitions that takes much time, being a very smooth transition. From a narrative perspective, it signifies the past of time, being very clear when it ends and starts each scene.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade%20flash.gif)
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade%20in.gif)
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade.gif)
 
-### Zoom in/out
+#### Zoom in/out
 Is used when the camera zoom is drastically changed to direct the spectator attention. When it is changed from a long shot to a close up it is commonly to draw the attention to a single character, focusing on his expressions. And vice versa is to show a group of people or where they are situated, giving more importance to their presence in the environment.
 
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/demo2-v2.gif)
 
-### Dissolve
+#### Dissolve
 A dissolve transition is when two scenes overlay. Adjusting their transparency, gradually the first one becomes transparent to show the next scene. It is also one of the smoothest transitions we can use, also because it is commonly used to show landscapes or wide areas. So that to achieve a really smooth transition there would be a color concordance between both scenes to avoid drastic changes.
 
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/dissolve.gif)
 
-### Straight Wipe
+#### Straight Wipe
 A wipe transition is when a straight line, horizontal, vertical or practically any direction, travels the screen replacing the previous scene with the new one. The direction we decide to use could give us different meanings. Such as referring to the past, going from right to left side with a vertical line. Or indicate moral superiority, going from top to bottom with an horizontal line.
 Despite its conventional uses we can give the wipe line any shape we want, adjusting in to our thematic or aesthetic.
 
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/diagonal%20wipe%202.gif)
 
-### Wipe with shape
+#### Wipe with shape
 Despite its conventional uses we can give the wipe line any shape we want, adjusting in to our thematic or aesthetic.
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/center%20wipe.gif)
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/isthiswipe.gif)
 
-### Adorned
+#### Adorned
 This transition is practically the same as the wipe. But it uses extra graphic decoration to achieve a specific aesthetic. Because of its little naturalness it is only used in titles with a cartoon visual aesthetic or directed to a child audience.
 
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/colorful.gif)
 
 
-### Pixelated
+#### Pixelated
 Most commonly used in pixel art games or old ones that have a low resolution. This technique consists in covering the screen with limited areas step by step in which we will be able to see the new scene.
 
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/color%202.gif)
+
+### Transition inside the same scene
+Sometimes there is no need of changing the scene to redirect the action to another place. We can design a scenario that contains various interesting points. Through different camera uses and different resources we have to be able to guide the player’s attention to the desired point.
+
+#### Camera locking
+Could be debatable if this is really a camera transition. The visual result seems to be that the camera is not moving, but actually it is moving at the same direction and speed that the center of action, that could be a car,  character or even a landscape. The camera is locked so that the only thing that seems to move is the environment, but is a prefabricated 2D or 3D scenario we will travel.
+
+#### Camera locking window
+
+
+
+#### Lerp 
+Although all the action is occurring at the same scene, a camera rotation or movement is needed to focus the unseen actions. Depending on how fast this movement is done could seem more or less smooth.
+
+This action following method does not always imply a big translation. A lot of times only a small adjustment is needed in the camera position to view the character from the desired point of view. It is very common to see this in combat video games when the developer wants to give some part of the character more importance or if for example: the character is performing an aerial attack, the camera should go up to capture a wider shot.
+
+#### Integrated scenes
+
+Being very similar to a zoom in and lerp, when we want to show an object or character that is already on the screen we do not need to change the scene to focus the attention on him. Being different from the two mentioned techniques, when we do a transition to an integrated scene the camera remains idle. It is commonly used to access menus or interfaces that don’t require exiting the scene and are either integrated or renderer above all the previous layers.
+
+***
 
 ## Camera transition effects
 Even though we decide to not give any special artistic taste to our game transitions they will have such an important impact to the audience. In artistic decisions there doesn't exist a neutral solution, if we decide we do not want to convey any special sensation.
