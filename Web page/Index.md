@@ -1,9 +1,10 @@
+***
 ### *Research by: Martí Davicino Quevedo*
-
+***
 # Camera Battle Transitions 
 
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/intro.gif)
-
+***
 ## Camera transitions
 
 Camera transitions are not something new in the video games industry. Long before ago was a technique used in the cinema world to cut scenes and connect on with another. However the result can be pretty much the same, both industries use very different processes to achieve it. In the cinema world, once the movie is filmed, the department who takes care of the project is pre-production. They will attempt to fix all the incorrections and build smooth scene transitions.
