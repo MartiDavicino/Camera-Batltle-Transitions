@@ -11,6 +11,7 @@ Camera transitions are not something new in the video games industry. Long befor
 But in video games we cannot do that. Although most of them have an important part we call cinematic, precisely because it inherits all cinema techniques, the rest of the game is not like a movie we can review and edit. Each time a player plays a video game, even the same title, the result would be different. So that in the video games industry the post-production process is practically nonexistent, or rather different from cinema.
 
 Then, the goal is to imitate cinema scene transitions without a camera. Actually a video game does have a camera. Although we may need a bit of abstraction to realise it, it is much easier to see in new 3D titles.
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/camera.jpeg)
 
 ## Why do we need camera transitions
 
