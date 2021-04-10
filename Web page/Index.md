@@ -108,6 +108,9 @@ Now I have explained all types of camera transitions in cinema and video games i
 ***
 ## Answers
 -In the first video is use ______ fade camera transition technique.
+
 -In the first video is use ______ fade camera transition technique.
+
 -In the first video is use ______ fade camera transition technique.
+
 -In the first video is use ______ fade camera transition technique.
