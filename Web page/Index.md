@@ -50,7 +50,7 @@ Despite its conventional uses we can give the wipe line any shape we want, adjus
 This transition is practically the same as the wipe. But it uses extra graphic decoration to achieve a specific aesthetic. Because of its little naturalness it is only used in titles with a cartoon visual aesthetic or directed to a child audience.
 
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/colorful.gif)
-![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/color%202.gif)
+
 
 ### Pixelated
 Most commonly used in pixel art games or old ones that have a low resolution. This technique consists in covering the screen with limited areas step by step in which we will be able to see the new scene.
