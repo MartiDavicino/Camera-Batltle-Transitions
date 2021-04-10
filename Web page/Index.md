@@ -65,6 +65,7 @@ Despite its conventional uses we can give the wipe line any shape we want, adjus
 ### Wipe with shape
 Despite its conventional uses we can give the wipe line any shape we want, adjusting in to our thematic or aesthetic.
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/center%20wipe.gif)
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/isthiswipe.gif)
 
 ### Adorned
 This transition is practically the same as the wipe. But it uses extra graphic decoration to achieve a specific aesthetic. Because of its little naturalness it is only used in titles with a cartoon visual aesthetic or directed to a child audience.
