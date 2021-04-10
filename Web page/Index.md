@@ -24,6 +24,18 @@ Again comparing both industries, cinema and video games, there are two general t
 The scene to scene transition, where is used any sort of effect to smooth the change. And the transition inside the same scene, in which although the scene doesn’t change we redirect the camera to focus on a different objective.
 
 Scene to scene transition
+### Cut
+The already mentioned cut transition consists in playing two sequences simultaneously without putting any extra effects. It is not usually seen in video games because it doesn't offer any extra time to manage data before loading the next scene.
+
+i
+### Invisible cut
+Is called invisible cut, the technique which tries to hide a straight cut by driving the attention of the spectator to another side or just blocking his visibility with some other elements ons screen. This kind of transition, if it is well executed, goes unnoticed for most spectators if they are paying much attention.
+
+### Partial cut
+When between two scenes not all elements change we call it partial cut. In video games could imply managing less data, being less expensive to render. But from a cinematic perspective will imply either shooting two scenes with some identical elements, or shooting a scene with some idle elements when the entire background is changed.
+
+
+
 ### Fade in/out
 The first scene gradually turns to a color (fade in), commonly black or white. And then, from the single color, it gradually appears the other scene (fade out). It is one of the transitions that takes much time, being a very smooth transition. From a narrative perspective, it signifies the past of time, being very clear when it ends and starts each scene.
 
@@ -33,8 +45,12 @@ The first scene gradually turns to a color (fade in), commonly black or white. A
 ### Zoom in/out
 Is used when the camera zoom is drastically changed to direct the spectator attention. When it is changed from a long shot to a close up it is commonly to draw the attention to a single character, focusing on his expressions. And vice versa is to show a group of people or where they are situated, giving more importance to their presence in the environment.
 
+![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/demo2-v2.gif)
+
 ### Dissolve
 A dissolve transition is when two scenes overlay. Adjusting their transparency, gradually the first one becomes transparent to show the next scene. It is also one of the smoothest transitions we can use, also because it is commonly used to show landscapes or wide areas. So that to achieve a really smooth transition there would be a color concordance between both scenes to avoid drastic changes.
+
+![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/dissolve.gif)
 
 ### Straight Wipe
 A wipe transition is when a straight line, horizontal, vertical or practically any direction, travels the screen replacing the previous scene with the new one. The direction we decide to use could give us different meanings. Such as referring to the past, going from right to left side with a vertical line. Or indicate moral superiority, going from top to bottom with an horizontal line.
