@@ -88,9 +88,9 @@ Sometimes there is no need of changing the scene to redirect the action to anoth
 #### Camera locking
 Could be debatable if this is really a camera transition. The visual result seems to be that the camera is not moving, but actually it is moving at the same direction and speed that the center of action, that could be a car,  character or even a landscape. The camera is locked so that the only thing that seems to move is the environment, but is a prefabricated 2D or 3D scenario we will travel.
 
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/rallyx_240.gif)
 
-
-#### Lerp 
+#### Camera follows the action
 Although all the action is occurring at the same scene, a camera rotation or movement is needed to focus the unseen actions. Depending on how fast this movement is done could seem more or less smooth.
 
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/same%20environm.gif)
