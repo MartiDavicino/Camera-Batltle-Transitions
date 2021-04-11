@@ -47,6 +47,16 @@ The first scene gradually turns to a color (fade in), commonly black or white. A
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade%20in.gif)
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade.gif)
 
+#### Fade in/out with stencils
+Another version of the fade in/out transition mostly used in video games rather than in movies. Is covering step by step different areas of the screen to aplicate the fade in/out technique. Although the result is very different in both cases the application is the same, we cover the screen totally with a solid color to hide the previous screen and then we load the next one. Also if we plan to move the zones we are fading we could achieve some different effects we can use to convey the player a particular sensation.
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade%20with%20shapes.gif)
+For example, a game uses a symmetrical circular fading transition when the player dies or respawns. So that we can relate the transitions with the game pace.
+
+#### Fade in/out with animation
+The last version of the fade in/out transition technique that is only used in the video game parts that are not cinematic because it ruins the immersion experience, is using an animation that fluidly transforms into a solid color. There are only few examples that can integrate this transitions without breaking the game flow. Some first person shooters make the blood on screen work as an animation that gradually advances as you lose health. If you die, all the screen will be covered with red blood that slowly turns into black.	
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/coolest%20wipe.gif)
+
 #### Zoom in/out
 Is used when the camera zoom is drastically changed to direct the spectator attention. When it is changed from a long shot to a close up it is commonly to draw the attention to a single character, focusing on his expressions. And vice versa is to show a group of people or where they are situated, giving more importance to their presence in the environment.
 
@@ -68,14 +78,14 @@ Despite its conventional uses we can give the wipe line any shape we want, adjus
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/center%20wipe.gif)
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/isthiswipe.gif)
 
-#### Adorned
-This transition is practically the same as the wipe. But it uses extra graphic decoration to achieve a specific aesthetic. Because of its little naturalness it is only used in titles with a cartoon visual aesthetic or directed to a child audience.
+#### Graphics
+This type of transition is practically the same as the wipe. But it uses extra graphic decoration to achieve a specific aesthetic. Because of its little naturalness it is mostly used in loading in screen or between two non cinematic scenes, like accesing to the inventory
 
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/colorful.gif)
 
+It is a good decision to build a concordance between the scene transitions the video game main aesthetic. As most games do, the graphics used are even elements you find inside the game. For example an axe in vikings game or snake in survival game.
 
-#### Pixelated
-Most commonly used in pixel art games or old ones that have a low resolution. This technique consists in covering the screen with limited areas step by step in which we will be able to see the new scene.
+
 
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/color%202.gif)
 
