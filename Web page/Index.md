@@ -125,29 +125,36 @@ An intelligent solution, performed from FromSoftware in Dark souls titles, is ad
 ## Exercises
 Now I have explained all types of camera transitions in cinema and video games industry it is time for a challenge! Let's test all we have learnt. You will have to identify the type of camera transition in each of the following videos. Write down your answers and check them at the end of the document when you are done.
 
+### 1.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/bat%20cut.gif)
-
+### 2.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/composed.gif)
-
+### 3.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/diagonal%20wipe.gif)
-
+### 4.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/artificial%202.gif)
-
+### 5.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/zoom%20and%20disolve.gif)
-
+### 6.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/demo2-v2.gif)
-
+### 7.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/wipe%20graphics.gif)
-
-
-
-
+### 8.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/follow%20action.gif)
-
+### 9.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/integrated%20ui.gif)
+
 
 ***
 ## Answers
--In the first video is use ______ fade camera transition.
+1. Animated wipe + fade out transition.
+2. Lerp (camera translation) + animated wipe transition.
+3. Diagonal wipe transition.
+4. Invisible cut transition.
+5. Zoom in/out + distort effect transition.
+6. Zoom in/out + shake effect transition.
+7. Wipe out transition.
+8. Lerp (camera rotation following action) transition.
+9. Integrated scene (UI) transition.
 
 
