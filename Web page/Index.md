@@ -3,7 +3,8 @@
 ***
 # Camera Battle Transitions 
 
-![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/intro.gif)
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/intro%204.gif)
+
 ***
 ## Camera transitions
 
@@ -40,16 +41,27 @@ Is called invisible cut, the technique which tries to hide a straight cut by dri
 When between two scenes not all elements change we call it partial cut. In video games could imply managing less data, being less expensive to render. But from a cinematic perspective will imply either shooting two scenes with some identical elements, or shooting a scene with some idle elements when the entire background is changed.
 
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/baby%20driver.gif)
-
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/cut%20%2B%20zoom.gif)
 #### Fade in/out
 The first scene gradually turns to a color (fade in), commonly black or white. And then, from the single color, it gradually appears the other scene (fade out). It is one of the transitions that takes much time, being a very smooth transition. From a narrative perspective, it signifies the past of time, being very clear when it ends and starts each scene.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade%20flash.gif)
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade%20in.gif)
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade.gif)
 
+#### Fade in/out with stencils
+Another version of the fade in/out transition mostly used in video games rather than in movies. Is covering step by step different areas of the screen to aplicate the fade in/out technique. Although the result is very different in both cases the application is the same, we cover the screen totally with a solid color to hide the previous screen and then we load the next one. Also if we plan to move the zones we are fading we could achieve some different effects we can use to convey the player a particular sensation.
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade%20with%20shapes.gif)
+For example, a game uses a symmetrical circular fading transition when the player dies or respawns. So that we can relate the transitions with the game pace.
+
+#### Fade in/out with animation
+The last version of the fade in/out transition technique that is only used in the video game parts that are not cinematic because it ruins the immersion experience, is using an animation that fluidly transforms into a solid color. There are only few examples that can integrate this transitions without breaking the game flow. Some first person shooters make the blood on screen work as an animation that gradually advances as you lose health. If you die, all the screen will be covered with red blood that slowly turns into black.	
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/coolest%20wipe.gif)
+
 #### Zoom in/out
 Is used when the camera zoom is drastically changed to direct the spectator attention. When it is changed from a long shot to a close up it is commonly to draw the attention to a single character, focusing on his expressions. And vice versa is to show a group of people or where they are situated, giving more importance to their presence in the environment.
 
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/compo.gif)
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/demo2-v2.gif)
 
 #### Dissolve
@@ -68,16 +80,7 @@ Despite its conventional uses we can give the wipe line any shape we want, adjus
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/center%20wipe.gif)
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/isthiswipe.gif)
 
-#### Adorned
-This transition is practically the same as the wipe. But it uses extra graphic decoration to achieve a specific aesthetic. Because of its little naturalness it is only used in titles with a cartoon visual aesthetic or directed to a child audience.
 
-![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/colorful.gif)
-
-
-#### Pixelated
-Most commonly used in pixel art games or old ones that have a low resolution. This technique consists in covering the screen with limited areas step by step in which we will be able to see the new scene.
-
-![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/color%202.gif)
 
 ### Transition inside the same scene
 Sometimes there is no need of changing the scene to redirect the action to another place. We can design a scenario that contains various interesting points. Through different camera uses and different resources we have to be able to guide the player’s attention to the desired point.
@@ -85,14 +88,16 @@ Sometimes there is no need of changing the scene to redirect the action to anoth
 #### Camera locking
 Could be debatable if this is really a camera transition. The visual result seems to be that the camera is not moving, but actually it is moving at the same direction and speed that the center of action, that could be a car,  character or even a landscape. The camera is locked so that the only thing that seems to move is the environment, but is a prefabricated 2D or 3D scenario we will travel.
 
-#### Camera locking window
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/rallyx_240.gif)
 
-
-
-#### Lerp 
+#### Camera follows the action
 Although all the action is occurring at the same scene, a camera rotation or movement is needed to focus the unseen actions. Depending on how fast this movement is done could seem more or less smooth.
 
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/same%20environm.gif)
+
 This action following method does not always imply a big translation. A lot of times only a small adjustment is needed in the camera position to view the character from the desired point of view. It is very common to see this in combat video games when the developer wants to give some part of the character more importance or if for example: the character is performing an aerial attack, the camera should go up to capture a wider shot.
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/ff.gif)
 
 #### Integrated scenes
 
@@ -120,24 +125,36 @@ An intelligent solution, performed from FromSoftware in Dark souls titles, is ad
 ## Exercises
 Now I have explained all types of camera transitions in cinema and video games industry it is time for a challenge! Let's test all we have learnt. You will have to identify the type of camera transition in each of the following videos. Write down your answers and check them at the end of the document when you are done.
 
-![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/aladin.gif)
-
+### 1.
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/bat%20cut.gif)
+### 2.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/composed.gif)
-
+### 3.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/diagonal%20wipe.gif)
-
+### 4.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/artificial%202.gif)
-
+### 5.
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/zoom%20and%20disolve.gif)
+### 6.
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/demo2-v2.gif)
+### 7.
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/wipe%20graphics.gif)
+### 8.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/follow%20action.gif)
-
+### 9.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/integrated%20ui.gif)
+
 
 ***
 ## Answers
--In the first video is use ______ fade camera transition technique.
+1. Animated wipe + fade out transition.
+2. Lerp (camera translation) + animated wipe transition.
+3. Diagonal wipe transition.
+4. Invisible cut transition.
+5. Zoom in/out + distort effect transition.
+6. Zoom in/out + shake effect transition.
+7. Wipe out transition.
+8. Lerp (camera rotation following action) transition.
+9. Integrated scene (UI) transition.
 
--In the first video is use ______ fade camera transition technique.
 
--In the first video is use ______ fade camera transition technique.
-
--In the first video is use ______ fade camera transition technique.
