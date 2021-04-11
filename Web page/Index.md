@@ -60,6 +60,7 @@ The last version of the fade in/out transition technique that is only used in th
 #### Zoom in/out
 Is used when the camera zoom is drastically changed to direct the spectator attention. When it is changed from a long shot to a close up it is commonly to draw the attention to a single character, focusing on his expressions. And vice versa is to show a group of people or where they are situated, giving more importance to their presence in the environment.
 
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/compo.gif)
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/demo2-v2.gif)
 
 #### Dissolve
@@ -95,14 +96,16 @@ Sometimes there is no need of changing the scene to redirect the action to anoth
 #### Camera locking
 Could be debatable if this is really a camera transition. The visual result seems to be that the camera is not moving, but actually it is moving at the same direction and speed that the center of action, that could be a car,  character or even a landscape. The camera is locked so that the only thing that seems to move is the environment, but is a prefabricated 2D or 3D scenario we will travel.
 
-#### Camera locking window
-
 
 
 #### Lerp 
 Although all the action is occurring at the same scene, a camera rotation or movement is needed to focus the unseen actions. Depending on how fast this movement is done could seem more or less smooth.
 
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/same%20environm.gif)
+
 This action following method does not always imply a big translation. A lot of times only a small adjustment is needed in the camera position to view the character from the desired point of view. It is very common to see this in combat video games when the developer wants to give some part of the character more importance or if for example: the character is performing an aerial attack, the camera should go up to capture a wider shot.
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/ff.gif)
 
 #### Integrated scenes
 
