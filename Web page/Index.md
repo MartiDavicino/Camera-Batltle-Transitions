@@ -3,7 +3,8 @@
 ***
 # Camera Battle Transitions 
 
-![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/intro.gif)
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/intro%204.gif)
+
 ***
 ## Camera transitions
 
