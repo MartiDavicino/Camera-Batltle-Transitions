@@ -125,7 +125,7 @@ An intelligent solution, performed from FromSoftware in Dark souls titles, is ad
 ## Exercises
 Now I have explained all types of camera transitions in cinema and video games industry it is time for a challenge! Let's test all we have learnt. You will have to identify the type of camera transition in each of the following videos. Write down your answers and check them at the end of the document when you are done.
 
-![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/aladin.gif)
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/bat%20cut.gif)
 
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/composed.gif)
 
@@ -133,16 +133,21 @@ Now I have explained all types of camera transitions in cinema and video games i
 
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/artificial%202.gif)
 
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/zoom%20and%20disolve.gif)
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/demo2-v2.gif)
+
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/wipe%20graphics.gif)
+
+
+
+
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/follow%20action.gif)
 
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/integrated%20ui.gif)
 
 ***
 ## Answers
--In the first video is use ______ fade camera transition technique.
+-In the first video is use ______ fade camera transition.
 
--In the first video is use ______ fade camera transition technique.
 
--In the first video is use ______ fade camera transition technique.
-
--In the first video is use ______ fade camera transition technique.
