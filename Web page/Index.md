@@ -41,7 +41,7 @@ Is called invisible cut, the technique which tries to hide a straight cut by dri
 When between two scenes not all elements change we call it partial cut. In video games could imply managing less data, being less expensive to render. But from a cinematic perspective will imply either shooting two scenes with some identical elements, or shooting a scene with some idle elements when the entire background is changed.
 
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/baby%20driver.gif)
-
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/cut%20%2B%20zoom.gif)
 #### Fade in/out
 The first scene gradually turns to a color (fade in), commonly black or white. And then, from the single color, it gradually appears the other scene (fade out). It is one of the transitions that takes much time, being a very smooth transition. From a narrative perspective, it signifies the past of time, being very clear when it ends and starts each scene.
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/fade%20flash.gif)
@@ -80,16 +80,7 @@ Despite its conventional uses we can give the wipe line any shape we want, adjus
 ![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/center%20wipe.gif)
 ![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/isthiswipe.gif)
 
-#### Graphics
-This type of transition is practically the same as the wipe. But it uses extra graphic decoration to achieve a specific aesthetic. Because of its little naturalness it is mostly used in loading in screen or between two non cinematic scenes, like accesing to the inventory
 
-![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/colorful.gif)
-
-It is a good decision to build a concordance between the scene transitions the video game main aesthetic. As most games do, the graphics used are even elements you find inside the game. For example an axe in vikings game or snake in survival game.
-
-
-
-![alt text](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/color%202.gif)
 
 ### Transition inside the same scene
 Sometimes there is no need of changing the scene to redirect the action to another place. We can design a scenario that contains various interesting points. Through different camera uses and different resources we have to be able to guide the player’s attention to the desired point.
