@@ -120,6 +120,22 @@ computer has different performances and efficiency.
 
 An intelligent solution, performed from FromSoftware in Dark souls titles, is adding in the middle of the transition an idle image which contains useful information for the game. Rendering an image while the game is unloading and loading data that contains information of an entire scene is minuscule. So that, depending on your computer you will see this image more or less time.
 
+***
+## Code implementation
+
+### Fade in/out 
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/code/1.PNG)
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/code/2.PNG)
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/code/3.PNG)
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/code/4.PNG)
+### Wipe
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/code/5.PNG)
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/code/6.PNG)
+### Lerp
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/code/7.PNG)
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/code/8.PNG)
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/code/9.PNG)
+![](https://github.com/MartiDavicino/Camera-Batltle-Transitions/blob/main/Web%20page/Docs/code/10.PNG)
 
 ***
 ## Exercises
